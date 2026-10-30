@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Region,Category,Product,Quantity,Unit_Price,Discount_Percent,Unit_Cost,Segment
+SO0001,2025-03-31,C0139,Customer 170,Delhi,North,Home & Kitchen,Bedsheet,3,1200,0.05,350,Consumer
+SO0002,2025-09-14,C0082,Customer 164,Kolkata,South,Furniture,Sofa,4,22000,0.05,5000,Home Office
+SO0003,2025-12-28,C0137,Customer 144,Mumbai,East,Electronics,Smartphone,2,18000,0.0,3000,Home Office
+SO0004,2025-02-11,C0130,Customer 122,Chennai,West,Electronics,Laptop,3,52000,0.1,9000,Home Office
+SO0005,2025-10-20,C0014,Customer 091,Hyderabad,West,Clothing,T-Shirt,4,550,0.05,180,Corporate
+SO0006,2025-10-13,C0055,Customer 064,Pune,North,Electronics,Keyboard,2,950,0.0,300,Corporate
+SO0007,2025-10-12,C0137,Customer 142,Chennai,East,Electronics,Headphones,2,1800,0.15,650,Home Office
+SO0008,2025-06-20,C0025,Customer 148,Delhi,East,Clothing,Sneakers,3,2600,0.0,800,Consumer
+SO0009,2025-05-20,C0122,Customer 163,Hyderabad,South,Electronics,Headphones,1,1800,0.1,650,Corporate
+SO0010,2025-11-14,C0145,Customer 135,Chennai,West,Clothing,T-Shirt,4,550,0.0,180,Corporate
+SO0011,2025-03-19,C0174,Customer 029,Mumbai,North,Home & Kitchen,Cookware Set,2,2400,0.05,650,Home Office
+SO0012,2025-03-24,C0108,Customer 024,Delhi,East,Clothing,Sneakers,3,2600,0.0,800,Home Office
+SO0013,2025-02-13,C0140,Customer 163,Mumbai,South,Home & Kitchen,Table Lamp,1,850,0.15,250,Home Office
+SO0014,2025-01-26,C0125,Customer 151,Kolkata,West,Clothing,Handbag,2,1900,0.05,600,Consumer
+SO0015,2025-08-24,C0056,Customer 059,Jaipur,East,Home & Kitchen,Water Bottle,4,350,0.0,100,Consumer
+SO0016,2025-10-18,C0133,Customer 109,Hyderabad,East,Clothing,Handbag,1,1900,0.15,600,Home Office
+SO0017,2025-06-10,C0095,Customer 045,Mumbai,East,Furniture,Dining Table,2,15000,0.15,3500,Corporate
+SO0018,2025-09-23,C0028,Customer 134,Hyderabad,South,Clothing,Jacket,5,3200,0.0,950,Home Office
+SO0019,2025-09-16,C0036,Customer 138,Jaipur,West,Furniture,Sofa,4,22000,0.1,5000,Consumer
+SO0020,2025-08-28,C0087,Customer 085,Mumbai,North,Clothing,Sneakers,2,2600,0.0,800,Corporate
+SO0021,2025-02-27,C0121,Customer 078,Mumbai,North,Electronics,Wireless Mouse,1,650,0.0,200,Consumer
+SO0022,2025-07-24,C0032,Customer 110,Hyderabad,North,Home & Kitchen,Water Bottle,2,350,0.0,100,Consumer
+SO0023,2025-10-06,C0149,Customer 107,Kolkata,North,Clothing,Sneakers,3,2600,0.05,800,Home Office
+SO0024,2025-06-16,C0083,Customer 031,Pune,South,Clothing,T-Shirt,1,550,0.05,180,Home Office
+SO0025,2025-03-05,C0066,Customer 064,Bengaluru,West,Furniture,Sofa,3,22000,0.1,5000,Corporate
+SO0026,2025-04-20,C0130,Customer 147,Chennai,East,Furniture,Sofa,3,22000,0.0,5000,Consumer
+SO0027,2025-09-25,C0155,Customer 040,Chennai,South,Home & Kitchen,Table Lamp,5,850,0.1,250,Home Office
+SO0028,2025-02-03,C0158,Customer 061,Chennai,South,Clothing,Jacket,3,3200,0.1,950,Consumer
+SO0029,2025-08-15,C0129,Customer 033,Delhi,South,Home & Kitchen,Water Bottle,3,350,0.15,100,Corporate
+SO0030,2025-01-04,C0163,Customer 032,Pune,West,Clothing,Handbag,2,1900,0.05,600,Consumer
+SO0031,2025-05-05,C0044,Customer 019,Delhi,North,Home & Kitchen,Mixer Grinder,5,2800,0.1,750,Corporate
+SO0032,2025-03-18,C0069,Customer 079,Kolkata,East,Clothing,Jacket,3,3200,0.0,950,Home Office
+SO0033,2025-05-02,C0056,Customer 055,Pune,West,Furniture,Sofa,1,22000,0.05,5000,Corporate
+SO0034,2025-11-28,C0053,Customer 081,Hyderabad,North,Clothing,T-Shirt,3,550,0.1,180,Home Office
+SO0035,2025-08-05,C0157,Customer 067,Delhi,West,Electronics,Headphones,4,1800,0.1,650,Consumer
+SO0036,2025-07-05,C0051,Customer 059,Kolkata,North,Home & Kitchen,Cookware Set,2,2400,0.0,650,Corporate
+SO0037,2025-10-27,C0124,Customer 114,Bengaluru,South,Furniture,Bookshelf,5,4200,0.0,1000,Consumer
+SO0038,2025-07-13,C0125,Customer 086,Mumbai,East,Home & Kitchen,Table Lamp,2,850,0.1,250,Corporate
+SO0039,2025-08-31,C0026,Customer 105,Jaipur,North,Furniture,Study Table,4,8500,0.0,2100,Consumer
+SO0040,2025-03-08,C0051,Customer 041,Delhi,South,Home & Kitchen,Mixer Grinder,3,2800,0.1,750,Consumer
+SO0041,2025-02-14,C0076,Customer 157,Delhi,East,Electronics,Headphones,4,1800,0.0,650,Home Office
+SO0042,2025-01-18,C0166,Customer 008,Delhi,North,Home & Kitchen,Water Bottle,3,350,0.15,100,Home Office
+SO0043,2025-06-29,C0124,Customer 055,Bengaluru,North,Electronics,Headphones,3,1800,0.15,650,Corporate
+SO0044,2025-09-10,C0094,Customer 057,Hyderabad,North,Clothing,Jacket,4,3200,0.05,950,Corporate
+SO0045,2025-10-13,C0021,Customer 011,Kolkata,North,Furniture,Sofa,1,22000,0.15,5000,Home Office
+SO0046,2025-08-15,C0013,Customer 174,Delhi,North,Home & Kitchen,Cookware Set,2,2400,0.15,650,Home Office
+SO0047,2025-04-23,C0080,Customer 165,Delhi,East,Electronics,Laptop,2,52000,0.1,9000,Home Office
+SO0048,2025-02-15,C0099,Customer 001,Jaipur,North,Clothing,Handbag,1,1900,0.1,600,Corporate
+SO0049,2025-02-17,C0137,Customer 166,Jaipur,East,Clothing,Jacket,1,3200,0.1,950,Home Office
+SO0050,2025-12-13,C0083,Customer 175,Hyderabad,South,Electronics,Wireless Mouse,2,650,0.0,200,Home Office
+SO0051,2025-02-25,C0098,Customer 015,Jaipur,West,Furniture,Bookshelf,4,4200,0.0,1000,Corporate
+SO0052,2025-09-14,C0104,Customer 155,Chennai,South,Clothing,Handbag,2,1900,0.15,600,Corporate
+SO0053,2025-04-19,C0159,Customer 026,Mumbai,West,Furniture,Bookshelf,4,4200,0.05,1000,Consumer
+SO0054,2025-11-13,C0014,Customer 051,Bengaluru,South,Home & Kitchen,Table Lamp,3,850,0.1,250,Consumer
+SO0055,2025-08-08,C0099,Customer 012,Hyderabad,North,Clothing,T-Shirt,3,550,0.05,180,Home Office
+SO0056,2025-07-03,C0150,Customer 156,Pune,South,Clothing,Handbag,3,1900,0.0,600,Corporate
+SO0057,2025-01-13,C0036,Customer 117,Chennai,West,Home & Kitchen,Table Lamp,1,850,0.0,250,Home Office
+SO0058,2025-07-12,C0169,Customer 180,Kolkata,North,Electronics,Laptop,2,52000,0.1,9000,Corporate
+SO0059,2025-11-07,C0120,Customer 084,Chennai,West,Furniture,Study Table,2,8500,0.0,2100,Consumer
+SO0060,2025-08-29,C0023,Customer 045,Bengaluru,South,Home & Kitchen,Bedsheet,3,1200,0.1,350,Corporate
+SO0061,2025-09-22,C0149,Customer 066,Pune,West,Furniture,Bookshelf,1,4200,0.05,1000,Corporate
+SO0062,2025-03-24,C0132,Customer 055,Mumbai,North,Home & Kitchen,Mixer Grinder,4,2800,0.05,750,Consumer
+SO0063,2025-07-01,C0084,Customer 059,Mumbai,South,Clothing,T-Shirt,1,550,0.0,180,Consumer
+SO0064,2025-07-30,C0107,Customer 086,Jaipur,North,Electronics,Keyboard,1,950,0.1,300,Consumer
+SO0065,2025-05-26,C0149,Customer 098,Hyderabad,South,Electronics,Laptop,5,52000,0.0,9000,Corporate
+SO0066,2025-06-13,C0126,Customer 060,Jaipur,East,Furniture,Bookshelf,2,4200,0.05,1000,Home Office
+SO0067,2025-11-03,C0110,Customer 080,Jaipur,East,Home & Kitchen,Cookware Set,2,2400,0.15,650,Home Office
+SO0068,2025-06-17,C0010,Customer 002,Delhi,North,Electronics,Wireless Mouse,3,650,0.0,200,Consumer
+SO0069,2025-04-19,C0023,Customer 095,Chennai,West,Clothing,Handbag,1,1900,0.15,600,Home Office
+SO0070,2025-09-01,C0056,Customer 156,Mumbai,West,Home & Kitchen,Bedsheet,2,1200,0.1,350,Consumer
+SO0071,2025-11-25,C0019,Customer 106,Mumbai,West,Furniture,Dining Table,2,15000,0.15,3500,Corporate
+SO0072,2025-08-19,C0037,Customer 169,Pune,East,Clothing,Handbag,2,1900,0.05,600,Corporate
+SO0073,2025-07-18,C0174,Customer 003,Chennai,West,Electronics,Keyboard,3,950,0.1,300,Home Office
+SO0074,2025-09-05,C0073,Customer 032,Pune,East,Clothing,T-Shirt,2,550,0.0,180,Home Office
+SO0075,2025-05-07,C0007,Customer 128,Bengaluru,West,Clothing,Sneakers,2,2600,0.0,800,Consumer
+SO0076,2025-11-06,C0165,Customer 068,Delhi,East,Home & Kitchen,Bedsheet,5,1200,0.0,350,Home Office
+SO0077,2025-01-07,C0180,Customer 150,Mumbai,South,Electronics,Laptop,3,52000,0.05,9000,Home Office
+SO0078,2025-11-11,C0153,Customer 095,Hyderabad,South,Home & Kitchen,Mixer Grinder,3,2800,0.0,750,Corporate
+SO0079,2025-01-05,C0095,Customer 109,Bengaluru,East,Clothing,Handbag,2,1900,0.15,600,Home Office
+SO0080,2025-07-15,C0139,Customer 149,Mumbai,South,Clothing,Handbag,5,1900,0.15,600,Corporate
+SO0081,2025-11-11,C0167,Customer 079,Bengaluru,South,Electronics,Wireless Mouse,2,650,0.1,200,Consumer
+SO0082,2025-07-09,C0134,Customer 074,Jaipur,North,Electronics,Smartphone,2,18000,0.0,3000,Consumer
+SO0083,2025-12-26,C0175,Customer 043,Bengaluru,East,Home & Kitchen,Water Bottle,4,350,0.15,100,Corporate
+SO0084,2025-07-29,C0117,Customer 051,Hyderabad,North,Home & Kitchen,Water Bottle,1,350,0.15,100,Consumer
+SO0085,2025-04-03,C0175,Customer 148,Mumbai,West,Clothing,Sneakers,5,2600,0.0,800,Home Office
+SO0086,2025-05-13,C0035,Customer 093,Chennai,East,Electronics,Headphones,2,1800,0.0,650,Consumer
+SO0087,2025-07-28,C0108,Customer 086,Mumbai,South,Electronics,Keyboard,3,950,0.15,300,Consumer
+SO0088,2025-03-27,C0050,Customer 155,Kolkata,East,Clothing,Sneakers,4,2600,0.05,800,Consumer
+SO0089,2025-09-28,C0092,Customer 174,Delhi,West,Clothing,T-Shirt,2,550,0.05,180,Corporate
+SO0090,2025-11-18,C0042,Customer 056,Hyderabad,East,Home & Kitchen,Water Bottle,4,350,0.05,100,Home Office
+SO0091,2025-06-17,C0142,Customer 124,Hyderabad,South,Home & Kitchen,Bedsheet,2,1200,0.0,350,Consumer
+SO0092,2025-09-22,C0109,Customer 081,Hyderabad,South,Furniture,Study Table,1,8500,0.0,2100,Consumer
+SO0093,2025-04-22,C0089,Customer 107,Bengaluru,East,Furniture,Bookshelf,3,4200,0.0,1000,Corporate
+SO0094,2025-05-03,C0055,Customer 083,Chennai,West,Electronics,Keyboard,3,950,0.05,300,Corporate
+SO0095,2025-12-07,C0014,Customer 016,Bengaluru,East,Electronics,Laptop,2,52000,0.1,9000,Home Office
+SO0096,2025-07-08,C0091,Customer 072,Hyderabad,North,Home & Kitchen,Cookware Set,5,2400,0.15,650,Corporate
+SO0097,2025-12-15,C0084,Customer 058,Chennai,North,Home & Kitchen,Water Bottle,2,350,0.0,100,Consumer
+SO0098,2025-05-07,C0014,Customer 085,Bengaluru,South,Electronics,Keyboard,4,950,0.15,300,Consumer
+SO0099,2025-10-23,C0024,Customer 088,Mumbai,East,Electronics,Laptop,5,52000,0.0,9000,Home Office
+SO0100,2025-03-07,C0045,Customer 037,Kolkata,North,Electronics,Laptop,4,52000,0.15,9000,Home Office
+SO0101,2025-04-13,C0072,Customer 147,Jaipur,South,Electronics,Headphones,2,1800,0.05,650,Home Office
+SO0102,2025-03-10,C0109,Customer 117,Jaipur,West,Furniture,Study Table,4,8500,0.0,2100,Consumer
+SO0103,2025-12-15,C0070,Customer 075,Bengaluru,North,Electronics,Keyboard,2,950,0.15,300,Consumer
+SO0104,2025-03-23,C0047,Customer 036,Chennai,East,Furniture,Dining Table,1,15000,0.1,3500,Corporate
+SO0105,2025-01-17,C0164,Customer 067,Jaipur,East,Electronics,Headphones,4,1800,0.05,650,Home Office
+SO0106,2025-02-10,C0010,Customer 149,Delhi,East,Furniture,Dining Table,2,15000,0.15,3500,Home Office
+SO0107,2025-01-30,C0063,Customer 128,Hyderabad,West,Home & Kitchen,Table Lamp,4,850,0.0,250,Corporate
+SO0108,2025-10-07,C0097,Customer 046,Delhi,North,Electronics,Laptop,3,52000,0.15,9000,Consumer
+SO0109,2025-09-26,C0112,Customer 067,Pune,North,Home & Kitchen,Cookware Set,1,2400,0.15,650,Corporate
+SO0110,2025-06-07,C0110,Customer 099,Delhi,North,Clothing,Jacket,5,3200,0.0,950,Consumer
+SO0111,2025-07-14,C0130,Customer 082,Chennai,South,Clothing,Handbag,2,1900,0.0,600,Corporate
+SO0112,2025-12-06,C0039,Customer 088,Delhi,West,Electronics,Laptop,3,52000,0.0,9000,Home Office
+SO0113,2025-12-14,C0026,Customer 101,Hyderabad,West,Furniture,Study Table,4,8500,0.15,2100,Corporate
+SO0114,2025-07-13,C0077,Customer 122,Pune,North,Clothing,Jacket,4,3200,0.0,950,Corporate
+SO0115,2025-01-28,C0023,Customer 108,Kolkata,West,Furniture,Study Table,5,8500,0.15,2100,Corporate
+SO0116,2025-08-10,C0053,Customer 139,Mumbai,West,Furniture,Bookshelf,4,4200,0.0,1000,Consumer
+SO0117,2025-04-14,C0015,Customer 122,Pune,South,Clothing,Jeans,2,1400,0.1,450,Corporate
+SO0118,2025-08-24,C0172,Customer 010,Chennai,West,Clothing,Handbag,3,1900,0.0,600,Corporate
+SO0119,2025-06-11,C0127,Customer 112,Mumbai,North,Clothing,Jeans,2,1400,0.15,450,Corporate
+SO0120,2025-03-06,C0074,Customer 059,Pune,South,Home & Kitchen,Bedsheet,1,1200,0.1,350,Consumer
+SO0121,2025-12-25,C0170,Customer 169,Mumbai,West,Clothing,Handbag,4,1900,0.05,600,Corporate
+SO0122,2025-02-21,C0005,Customer 152,Chennai,West,Electronics,Headphones,1,1800,0.05,650,Consumer
+SO0123,2025-10-28,C0122,Customer 128,Jaipur,North,Furniture,Sofa,3,22000,0.05,5000,Home Office
+SO0124,2025-02-16,C0095,Customer 106,Jaipur,North,Electronics,Smartphone,1,18000,0.0,3000,Home Office
+SO0125,2025-11-09,C0153,Customer 142,Delhi,East,Home & Kitchen,Bedsheet,4,1200,0.05,350,Corporate
+SO0126,2025-08-04,C0068,Customer 081,Bengaluru,North,Electronics,Headphones,3,1800,0.1,650,Home Office
+SO0127,2025-03-11,C0120,Customer 115,Hyderabad,West,Clothing,Handbag,5,1900,0.0,600,Corporate
+SO0128,2025-04-28,C0086,Customer 144,Delhi,East,Electronics,Smartphone,5,18000,0.0,3000,Home Office
+SO0129,2025-06-17,C0103,Customer 043,Delhi,North,Furniture,Sofa,4,22000,0.05,5000,Home Office
+SO0130,2025-12-27,C0070,Customer 070,Jaipur,South,Electronics,Keyboard,4,950,0.15,300,Corporate
+SO0131,2025-02-11,C0054,Customer 086,Mumbai,South,Clothing,Sneakers,1,2600,0.1,800,Corporate
+SO0132,2025-02-19,C0133,Customer 057,Kolkata,North,Home & Kitchen,Water Bottle,5,350,0.05,100,Corporate
+SO0133,2025-01-02,C0095,Customer 164,Jaipur,South,Electronics,Wireless Mouse,1,650,0.1,200,Consumer
+SO0134,2025-09-09,C0109,Customer 150,Hyderabad,West,Furniture,Bookshelf,1,4200,0.1,1000,Home Office
+SO0135,2025-05-06,C0170,Customer 061,Hyderabad,West,Home & Kitchen,Table Lamp,1,850,0.05,250,Consumer
+SO0136,2025-11-13,C0107,Customer 075,Hyderabad,North,Clothing,Sneakers,4,2600,0.15,800,Home Office
+SO0137,2025-04-23,C0029,Customer 020,Mumbai,North,Home & Kitchen,Mixer Grinder,3,2800,0.0,750,Consumer
+SO0138,2025-01-08,C0099,Customer 065,Kolkata,South,Electronics,Wireless Mouse,4,650,0.1,200,Corporate
+SO0139,2025-10-23,C0053,Customer 018,Bengaluru,South,Clothing,T-Shirt,1,550,0.15,180,Consumer
+SO0140,2025-07-15,C0097,Customer 088,Hyderabad,North,Home & Kitchen,Cookware Set,2,2400,0.1,650,Consumer
+SO0141,2025-10-10,C0151,Customer 095,Delhi,South,Home & Kitchen,Water Bottle,5,350,0.0,100,Home Office
+SO0142,2025-02-17,C0125,Customer 135,Mumbai,West,Furniture,Study Table,4,8500,0.1,2100,Consumer
+SO0143,2025-04-24,C0026,Customer 165,Delhi,East,Home & Kitchen,Cookware Set,2,2400,0.05,650,Home Office
+SO0144,2025-08-04,C0020,Customer 041,Delhi,East,Electronics,Laptop,4,52000,0.15,9000,Home Office
+SO0145,2025-10-16,C0004,Customer 145,Jaipur,South,Home & Kitchen,Table Lamp,2,850,0.0,250,Home Office
+SO0146,2025-12-26,C0063,Customer 071,Jaipur,South,Electronics,Smartphone,2,18000,0.1,3000,Home Office
+SO0147,2025-05-01,C0080,Customer 156,Delhi,West,Electronics,Headphones,2,1800,0.1,650,Corporate
+SO0148,2025-04-15,C0091,Customer 146,Hyderabad,South,Home & Kitchen,Water Bottle,2,350,0.15,100,Corporate
+SO0149,2025-10-31,C0136,Customer 049,Bengaluru,East,Home & Kitchen,Bedsheet,1,1200,0.0,350,Home Office
+SO0150,2025-05-05,C0044,Customer 119,Pune,West,Home & Kitchen,Water Bottle,4,350,0.0,100,Corporate
+SO0151,2025-01-10,C0133,Customer 102,Bengaluru,South,Furniture,Sofa,3,22000,0.05,5000,Corporate
+SO0152,2025-03-13,C0127,Customer 070,Kolkata,East,Clothing,Handbag,2,1900,0.15,600,Home Office
+SO0153,2025-03-20,C0038,Customer 112,Chennai,South,Furniture,Sofa,1,22000,0.15,5000,Home Office
+SO0154,2025-01-10,C0091,Customer 096,Delhi,West,Furniture,Dining Table,1,15000,0.1,3500,Corporate
+SO0155,2025-01-06,C0073,Customer 117,Chennai,West,Home & Kitchen,Cookware Set,5,2400,0.0,650,Corporate
+SO0156,2025-03-14,C0151,Customer 030,Delhi,North,Clothing,Jacket,1,3200,0.0,950,Consumer
+SO0157,2025-07-09,C0133,Customer 045,Pune,West,Home & Kitchen,Water Bottle,1,350,0.1,100,Corporate
+SO0158,2025-07-06,C0012,Customer 171,Chennai,East,Electronics,Headphones,3,1800,0.0,650,Home Office
+SO0159,2025-03-31,C0082,Customer 176,Hyderabad,South,Home & Kitchen,Bedsheet,2,1200,0.0,350,Home Office
+SO0160,2025-12-04,C0090,Customer 017,Pune,South,Clothing,Jeans,2,1400,0.15,450,Home Office
+SO0161,2025-11-14,C0084,Customer 169,Jaipur,West,Clothing,T-Shirt,3,550,0.0,180,Home Office
+SO0162,2025-05-07,C0028,Customer 157,Hyderabad,South,Clothing,Handbag,3,1900,0.1,600,Corporate
+SO0163,2025-10-21,C0025,Customer 037,Kolkata,South,Clothing,T-Shirt,1,550,0.05,180,Corporate
+SO0164,2025-05-17,C0006,Customer 072,Chennai,South,Electronics,Wireless Mouse,2,650,0.05,200,Consumer
+SO0165,2025-09-20,C0007,Customer 001,Pune,West,Clothing,Jeans,2,1400,0.1,450,Home Office
+SO0166,2025-10-09,C0075,Customer 059,Mumbai,North,Home & Kitchen,Table Lamp,1,850,0.0,250,Home Office
+SO0167,2025-01-19,C0027,Customer 138,Hyderabad,North,Home & Kitchen,Table Lamp,2,850,0.15,250,Home Office
+SO0168,2025-11-07,C0133,Customer 109,Chennai,East,Clothing,Jacket,3,3200,0.1,950,Consumer
+SO0169,2025-09-09,C0051,Customer 142,Hyderabad,South,Electronics,Wireless Mouse,5,650,0.1,200,Corporate
+SO0170,2025-11-01,C0003,Customer 063,Bengaluru,South,Electronics,Headphones,3,1800,0.1,650,Corporate
+SO0171,2025-03-25,C0115,Customer 150,Bengaluru,South,Electronics,Smartphone,1,18000,0.0,3000,Corporate
+SO0172,2025-07-06,C0091,Customer 167,Delhi,West,Furniture,Bookshelf,5,4200,0.0,1000,Corporate
+SO0173,2025-06-03,C0015,Customer 121,Mumbai,North,Furniture,Dining Table,4,15000,0.0,3500,Consumer
+SO0174,2025-10-01,C0072,Customer 011,Kolkata,South,Home & Kitchen,Table Lamp,4,850,0.0,250,Consumer
+SO0175,2025-03-25,C0100,Customer 056,Bengaluru,West,Furniture,Study Table,4,8500,0.0,2100,Consumer
+SO0176,2025-06-02,C0033,Customer 005,Delhi,West,Home & Kitchen,Mixer Grinder,4,2800,0.15,750,Home Office
+SO0177,2025-10-07,C0172,Customer 012,Mumbai,North,Furniture,Office Chair,2,6500,0.0,1600,Consumer
+SO0178,2025-06-11,C0014,Customer 033,Bengaluru,North,Furniture,Office Chair,1,6500,0.0,1600,Corporate
+SO0179,2025-12-31,C0044,Customer 050,Jaipur,North,Furniture,Study Table,4,8500,0.0,2100,Corporate
+SO0180,2025-09-05,C0031,Customer 080,Jaipur,South,Furniture,Study Table,4,8500,0.1,2100,Consumer
+SO0181,2025-01-08,C0114,Customer 140,Kolkata,East,Furniture,Sofa,1,22000,0.1,5000,Consumer
+SO0182,2025-11-26,C0135,Customer 111,Jaipur,West,Clothing,Jeans,4,1400,0.05,450,Home Office
+SO0183,2025-08-11,C0009,Customer 104,Chennai,North,Electronics,Headphones,1,1800,0.1,650,Corporate
+SO0184,2025-11-10,C0035,Customer 013,Chennai,East,Electronics,Keyboard,2,950,0.15,300,Corporate
+SO0185,2025-10-27,C0027,Customer 132,Bengaluru,South,Home & Kitchen,Table Lamp,5,850,0.1,250,Corporate
+SO0186,2025-07-21,C0172,Customer 105,Bengaluru,East,Electronics,Laptop,5,52000,0.05,9000,Consumer
+SO0187,2025-03-21,C0137,Customer 169,Jaipur,West,Electronics,Keyboard,2,950,0.05,300,Consumer
+SO0188,2025-04-11,C0009,Customer 056,Delhi,West,Furniture,Bookshelf,2,4200,0.15,1000,Home Office
+SO0189,2025-05-06,C0071,Customer 065,Mumbai,North,Clothing,Sneakers,2,2600,0.0,800,Consumer
+SO0190,2025-05-30,C0024,Customer 155,Delhi,East,Home & Kitchen,Bedsheet,4,1200,0.05,350,Corporate
+SO0191,2025-11-23,C0160,Customer 052,Pune,North,Home & Kitchen,Bedsheet,2,1200,0.0,350,Corporate
+SO0192,2025-04-01,C0177,Customer 035,Pune,North,Clothing,T-Shirt,3,550,0.0,180,Consumer
+SO0193,2025-04-09,C0026,Customer 025,Hyderabad,North,Home & Kitchen,Mixer Grinder,5,2800,0.0,750,Consumer
+SO0194,2025-01-23,C0161,Customer 144,Bengaluru,West,Furniture,Sofa,5,22000,0.0,5000,Consumer
+SO0195,2025-02-18,C0029,Customer 060,Hyderabad,East,Furniture,Bookshelf,4,4200,0.0,1000,Corporate
+SO0196,2025-04-06,C0166,Customer 167,Chennai,South,Furniture,Sofa,2,22000,0.0,5000,Consumer
+SO0197,2025-02-06,C0168,Customer 016,Delhi,South,Home & Kitchen,Table Lamp,5,850,0.05,250,Corporate
+SO0198,2025-07-04,C0099,Customer 077,Hyderabad,East,Home & Kitchen,Mixer Grinder,5,2800,0.0,750,Consumer
+SO0199,2025-04-23,C0037,Customer 095,Bengaluru,North,Electronics,Headphones,5,1800,0.0,650,Corporate
+SO0200,2025-04-29,C0100,Customer 073,Hyderabad,North,Furniture,Office Chair,1,6500,0.0,1600,Corporate
+SO0201,2025-11-25,C0023,Customer 071,Pune,South,Furniture,Bookshelf,3,4200,0.05,1000,Corporate
+SO0202,2025-04-26,C0048,Customer 111,Hyderabad,East,Clothing,Sneakers,3,2600,0.0,800,Home Office
+SO0203,2025-09-07,C0078,Customer 129,Pune,West,Electronics,Wireless Mouse,2,650,0.15,200,Home Office
+SO0204,2025-12-14,C0163,Customer 166,Bengaluru,East,Electronics,Laptop,2,52000,0.1,9000,Corporate
+SO0205,2025-12-21,C0139,Customer 151,Mumbai,North,Electronics,Laptop,5,52000,0.15,9000,Home Office
+SO0206,2025-11-21,C0037,Customer 175,Delhi,South,Home & Kitchen,Cookware Set,4,2400,0.1,650,Consumer
+SO0207,2025-10-10,C0003,Customer 012,Chennai,North,Clothing,Jacket,2,3200,0.0,950,Home Office
+SO0208,2025-03-24,C0102,Customer 047,Mumbai,North,Clothing,T-Shirt,3,550,0.15,180,Home Office
+SO0209,2025-04-04,C0103,Customer 023,Bengaluru,East,Electronics,Headphones,1,1800,0.1,650,Home Office
+SO0210,2025-01-28,C0153,Customer 050,Jaipur,East,Furniture,Bookshelf,2,4200,0.0,1000,Home Office
+SO0211,2025-11-15,C0161,Customer 157,Jaipur,South,Electronics,Keyboard,3,950,0.1,300,Consumer
+SO0212,2025-09-09,C0128,Customer 072,Bengaluru,East,Electronics,Wireless Mouse,3,650,0.1,200,Home Office
+SO0213,2025-10-26,C0119,Customer 085,Pune,West,Clothing,Handbag,4,1900,0.15,600,Home Office
+SO0214,2025-04-15,C0042,Customer 125,Pune,North,Clothing,Jeans,5,1400,0.05,450,Corporate
+SO0215,2025-12-29,C0067,Customer 052,Kolkata,East,Furniture,Study Table,5,8500,0.05,2100,Consumer
+SO0216,2025-07-27,C0164,Customer 069,Mumbai,North,Home & Kitchen,Mixer Grinder,3,2800,0.0,750,Consumer
+SO0217,2025-02-14,C0063,Customer 149,Bengaluru,East,Electronics,Smartphone,3,18000,0.15,3000,Home Office
+SO0218,2025-08-09,C0108,Customer 065,Pune,South,Home & Kitchen,Water Bottle,1,350,0.05,100,Consumer
+SO0219,2025-03-27,C0121,Customer 145,Mumbai,South,Electronics,Headphones,4,1800,0.05,650,Corporate
+SO0220,2025-10-29,C0077,Customer 035,Mumbai,West,Home & Kitchen,Water Bottle,2,350,0.1,100,Corporate
+SO0221,2025-08-29,C0134,Customer 068,Mumbai,North,Clothing,Jacket,4,3200,0.15,950,Home Office
+SO0222,2025-10-17,C0082,Customer 162,Bengaluru,South,Home & Kitchen,Mixer Grinder,1,2800,0.05,750,Home Office
+SO0223,2025-12-16,C0029,Customer 150,Bengaluru,North,Furniture,Bookshelf,5,4200,0.0,1000,Home Office
+SO0224,2025-09-21,C0164,Customer 087,Jaipur,East,Furniture,Bookshelf,1,4200,0.15,1000,Corporate
+SO0225,2025-06-12,C0099,Customer 174,Hyderabad,East,Electronics,Wireless Mouse,3,650,0.05,200,Corporate
+SO0226,2025-06-04,C0168,Customer 056,Mumbai,West,Home & Kitchen,Table Lamp,1,850,0.15,250,Corporate
+SO0227,2025-11-21,C0072,Customer 107,Bengaluru,East,Clothing,Handbag,3,1900,0.05,600,Home Office
+SO0228,2025-12-31,C0148,Customer 051,Bengaluru,North,Clothing,Sneakers,5,2600,0.15,800,Consumer
+SO0229,2025-07-18,C0160,Customer 058,Bengaluru,East,Clothing,Jacket,5,3200,0.0,950,Home Office
+SO0230,2025-02-27,C0020,Customer 089,Bengaluru,East,Electronics,Wireless Mouse,2,650,0.0,200,Consumer
+SO0231,2025-09-11,C0101,Customer 031,Kolkata,South,Furniture,Office Chair,2,6500,0.0,1600,Home Office
+SO0232,2025-02-23,C0028,Customer 002,Bengaluru,West,Electronics,Smartphone,3,18000,0.05,3000,Consumer
+SO0233,2025-01-08,C0090,Customer 130,Mumbai,North,Home & Kitchen,Water Bottle,5,350,0.1,100,Home Office
+SO0234,2025-10-17,C0090,Customer 117,Mumbai,South,Clothing,Sneakers,2,2600,0.05,800,Home Office
+SO0235,2025-11-07,C0075,Customer 070,Pune,West,Clothing,T-Shirt,2,550,0.0,180,Consumer
+SO0236,2025-08-02,C0057,Customer 058,Mumbai,East,Home & Kitchen,Cookware Set,5,2400,0.15,650,Corporate
+SO0237,2025-01-20,C0004,Customer 024,Hyderabad,West,Clothing,Sneakers,2,2600,0.0,800,Home Office
+SO0238,2025-01-24,C0001,Customer 023,Kolkata,South,Clothing,T-Shirt,5,550,0.1,180,Consumer
+SO0239,2025-06-21,C0180,Customer 113,Jaipur,East,Home & Kitchen,Table Lamp,5,850,0.15,250,Corporate
+SO0240,2025-09-28,C0018,Customer 106,Chennai,North,Clothing,Jeans,1,1400,0.0,450,Home Office
+SO0241,2025-08-26,C0023,Customer 076,Kolkata,East,Clothing,Jacket,1,3200,0.1,950,Corporate
+SO0242,2025-05-28,C0071,Customer 166,Mumbai,East,Furniture,Dining Table,4,15000,0.1,3500,Home Office
+SO0243,2025-06-04,C0007,Customer 160,Pune,West,Furniture,Dining Table,5,15000,0.1,3500,Corporate
+SO0244,2025-09-02,C0114,Customer 128,Pune,East,Home & Kitchen,Cookware Set,2,2400,0.05,650,Corporate
+SO0245,2025-09-23,C0119,Customer 042,Bengaluru,West,Home & Kitchen,Bedsheet,2,1200,0.0,350,Consumer
+SO0246,2025-01-19,C0111,Customer 175,Hyderabad,South,Home & Kitchen,Bedsheet,5,1200,0.0,350,Home Office
+SO0247,2025-09-04,C0097,Customer 138,Kolkata,East,Home & Kitchen,Cookware Set,3,2400,0.15,650,Corporate
+SO0248,2025-10-19,C0153,Customer 002,Kolkata,North,Clothing,Jeans,3,1400,0.0,450,Corporate
+SO0249,2025-03-30,C0020,Customer 088,Kolkata,West,Electronics,Laptop,2,52000,0.1,9000,Home Office
+SO0250,2025-09-28,C0110,Customer 131,Jaipur,West,Home & Kitchen,Bedsheet,3,1200,0.15,350,Home Office
+SO0251,2025-10-06,C0027,Customer 032,Mumbai,East,Clothing,Jeans,4,1400,0.05,450,Consumer
+SO0252,2025-09-22,C0029,Customer 076,Chennai,North,Home & Kitchen,Cookware Set,1,2400,0.1,650,Home Office
+SO0253,2025-01-01,C0103,Customer 174,Hyderabad,West,Furniture,Sofa,1,22000,0.0,5000,Corporate
+SO0254,2025-03-02,C0165,Customer 044,Hyderabad,East,Electronics,Wireless Mouse,1,650,0.15,200,Home Office
+SO0255,2025-01-20,C0156,Customer 176,Mumbai,South,Clothing,T-Shirt,1,550,0.05,180,Corporate
+SO0256,2025-04-27,C0049,Customer 171,Mumbai,South,Furniture,Bookshelf,3,4200,0.0,1000,Home Office
+SO0257,2025-10-31,C0166,Customer 073,Kolkata,West,Clothing,Jeans,5,1400,0.0,450,Consumer
+SO0258,2025-12-20,C0083,Customer 007,Jaipur,East,Home & Kitchen,Mixer Grinder,2,2800,0.15,750,Consumer
+SO0259,2025-03-04,C0087,Customer 172,Hyderabad,North,Electronics,Wireless Mouse,2,650,0.15,200,Home Office
+SO0260,2025-03-02,C0102,Customer 060,Kolkata,West,Clothing,Jeans,3,1400,0.0,450,Home Office
+SO0261,2025-06-01,C0118,Customer 177,Delhi,East,Clothing,Sneakers,3,2600,0.15,800,Home Office
+SO0262,2025-05-12,C0152,Customer 111,Hyderabad,South,Furniture,Dining Table,5,15000,0.0,3500,Home Office
+SO0263,2025-02-24,C0148,Customer 176,Chennai,South,Furniture,Sofa,3,22000,0.0,5000,Corporate
+SO0264,2025-07-28,C0048,Customer 084,Delhi,East,Clothing,Sneakers,2,2600,0.0,800,Corporate
+SO0265,2025-06-04,C0087,Customer 093,Jaipur,North,Home & Kitchen,Water Bottle,4,350,0.0,100,Consumer
+SO0266,2025-02-08,C0051,Customer 124,Bengaluru,East,Clothing,Jacket,2,3200,0.0,950,Home Office
+SO0267,2025-12-12,C0001,Customer 133,Chennai,South,Clothing,Handbag,4,1900,0.05,600,Home Office
+SO0268,2025-01-11,C0029,Customer 064,Kolkata,East,Clothing,Jacket,4,3200,0.05,950,Home Office
+SO0269,2025-04-27,C0057,Customer 049,Kolkata,North,Clothing,Handbag,2,1900,0.15,600,Consumer
+SO0270,2025-02-13,C0077,Customer 108,Pune,East,Clothing,T-Shirt,1,550,0.15,180,Home Office
+SO0271,2025-08-04,C0053,Customer 097,Mumbai,West,Furniture,Study Table,5,8500,0.15,2100,Home Office
+SO0272,2025-12-30,C0158,Customer 036,Mumbai,West,Furniture,Study Table,1,8500,0.0,2100,Home Office
+SO0273,2025-02-12,C0144,Customer 077,Hyderabad,East,Clothing,T-Shirt,2,550,0.1,180,Corporate
+SO0274,2025-03-23,C0128,Customer 137,Delhi,West,Clothing,T-Shirt,4,550,0.0,180,Corporate
+SO0275,2025-02-07,C0105,Customer 018,Hyderabad,East,Home & Kitchen,Water Bottle,3,350,0.1,100,Consumer
+SO0276,2025-03-22,C0064,Customer 179,Bengaluru,East,Clothing,Jacket,2,3200,0.0,950,Home Office
+SO0277,2025-08-15,C0174,Customer 179,Bengaluru,South,Electronics,Keyboard,4,950,0.15,300,Home Office
+SO0278,2025-02-07,C0064,Customer 008,Mumbai,West,Furniture,Dining Table,4,15000,0.1,3500,Home Office
+SO0279,2025-04-09,C0001,Customer 102,Mumbai,South,Electronics,Wireless Mouse,1,650,0.05,200,Corporate
+SO0280,2025-09-21,C0115,Customer 153,Delhi,East,Clothing,Handbag,2,1900,0.0,600,Consumer
+SO0281,2025-11-24,C0115,Customer 130,Bengaluru,South,Clothing,Handbag,2,1900,0.1,600,Corporate
+SO0282,2025-06-03,C0160,Customer 039,Bengaluru,West,Furniture,Study Table,1,8500,0.15,2100,Consumer
+SO0283,2025-07-21,C0147,Customer 038,Jaipur,West,Furniture,Dining Table,4,15000,0.0,3500,Corporate
+SO0284,2025-10-05,C0015,Customer 148,Delhi,North,Furniture,Study Table,3,8500,0.1,2100,Consumer
+SO0285,2025-06-21,C0154,Customer 063,Hyderabad,East,Electronics,Headphones,2,1800,0.1,650,Consumer
+SO0286,2025-07-24,C0017,Customer 119,Kolkata,North,Clothing,Handbag,5,1900,0.05,600,Home Office
+SO0287,2025-11-12,C0074,Customer 141,Hyderabad,North,Clothing,Handbag,5,1900,0.0,600,Consumer
+SO0288,2025-03-29,C0147,Customer 062,Delhi,East,Electronics,Keyboard,5,950,0.15,300,Home Office
+SO0289,2025-07-11,C0153,Customer 041,Pune,East,Clothing,Handbag,3,1900,0.15,600,Consumer
+SO0290,2025-07-23,C0159,Customer 049,Jaipur,South,Electronics,Laptop,2,52000,0.1,9000,Home Office
+SO0291,2025-08-21,C0119,Customer 001,Mumbai,South,Clothing,T-Shirt,1,550,0.0,180,Corporate
+SO0292,2025-11-18,C0121,Customer 142,Pune,South,Electronics,Wireless Mouse,1,650,0.15,200,Home Office
+SO0293,2025-09-02,C0027,Customer 041,Delhi,West,Furniture,Sofa,1,22000,0.1,5000,Home Office
+SO0294,2025-11-22,C0060,Customer 093,Chennai,East,Electronics,Keyboard,1,950,0.1,300,Home Office
+SO0295,2025-05-28,C0122,Customer 059,Bengaluru,North,Furniture,Sofa,4,22000,0.15,5000,Corporate
+SO0296,2025-05-02,C0089,Customer 014,Kolkata,West,Electronics,Headphones,3,1800,0.0,650,Corporate
+SO0297,2025-01-13,C0075,Customer 042,Chennai,South,Home & Kitchen,Bedsheet,5,1200,0.05,350,Home Office
+SO0298,2025-07-13,C0144,Customer 068,Jaipur,East,Electronics,Laptop,1,52000,0.0,9000,Corporate
+SO0299,2025-04-23,C0048,Customer 140,Bengaluru,South,Furniture,Dining Table,1,15000,0.0,3500,Consumer
+SO0300,2025-07-18,C0011,Customer 134,Delhi,East,Electronics,Smartphone,5,18000,0.15,3000,Corporate
+SO0301,2025-07-13,C0030,Customer 094,Delhi,North,Electronics,Wireless Mouse,5,650,0.0,200,Corporate
+SO0302,2025-10-11,C0028,Customer 071,Mumbai,North,Furniture,Office Chair,4,6500,0.0,1600,Consumer
+SO0303,2025-02-19,C0001,Customer 094,Jaipur,West,Clothing,Jacket,1,3200,0.0,950,Home Office
+SO0304,2025-12-28,C0023,Customer 004,Delhi,West,Electronics,Laptop,3,52000,0.15,9000,Home Office
+SO0305,2025-09-10,C0040,Customer 151,Mumbai,South,Furniture,Study Table,1,8500,0.0,2100,Consumer
+SO0306,2025-04-14,C0085,Customer 150,Bengaluru,West,Clothing,Handbag,5,1900,0.0,600,Home Office
+SO0307,2025-09-05,C0178,Customer 092,Jaipur,East,Electronics,Headphones,4,1800,0.0,650,Home Office
+SO0308,2025-10-27,C0029,Customer 094,Jaipur,South,Furniture,Dining Table,2,15000,0.05,3500,Home Office
+SO0309,2025-08-15,C0017,Customer 010,Bengaluru,West,Electronics,Keyboard,4,950,0.05,300,Home Office
+SO0310,2025-12-15,C0085,Customer 047,Pune,North,Home & Kitchen,Mixer Grinder,1,2800,0.05,750,Home Office
+SO0311,2025-03-19,C0072,Customer 030,Delhi,West,Electronics,Keyboard,5,950,0.0,300,Home Office
+SO0312,2025-07-04,C0161,Customer 179,Mumbai,West,Furniture,Study Table,2,8500,0.0,2100,Consumer
+SO0313,2025-08-23,C0070,Customer 076,Hyderabad,West,Furniture,Sofa,2,22000,0.15,5000,Home Office
+SO0314,2025-05-10,C0096,Customer 090,Pune,South,Clothing,Handbag,4,1900,0.0,600,Corporate
+SO0315,2025-11-19,C0178,Customer 086,Bengaluru,West,Electronics,Smartphone,2,18000,0.1,3000,Consumer
+SO0316,2025-03-10,C0055,Customer 177,Kolkata,West,Electronics,Smartphone,4,18000,0.0,3000,Corporate
+SO0317,2025-03-30,C0063,Customer 148,Pune,South,Clothing,Jacket,4,3200,0.0,950,Consumer
+SO0318,2025-12-21,C0179,Customer 033,Pune,West,Home & Kitchen,Cookware Set,2,2400,0.1,650,Corporate
+SO0319,2025-05-15,C0158,Customer 133,Delhi,West,Furniture,Sofa,2,22000,0.0,5000,Corporate
+SO0320,2025-05-23,C0010,Customer 128,Bengaluru,East,Home & Kitchen,Bedsheet,2,1200,0.15,350,Consumer
+SO0321,2025-09-16,C0118,Customer 023,Hyderabad,East,Furniture,Bookshelf,4,4200,0.0,1000,Consumer
+SO0322,2025-09-13,C0017,Customer 079,Hyderabad,North,Clothing,Handbag,4,1900,0.0,600,Corporate
+SO0323,2025-10-18,C0042,Customer 039,Kolkata,East,Home & Kitchen,Water Bottle,5,350,0.1,100,Consumer
+SO0324,2025-03-18,C0149,Customer 123,Pune,North,Electronics,Smartphone,1,18000,0.15,3000,Corporate
+SO0325,2025-09-23,C0114,Customer 135,Kolkata,North,Furniture,Study Table,2,8500,0.0,2100,Consumer
+SO0326,2025-07-15,C0049,Customer 166,Jaipur,West,Home & Kitchen,Cookware Set,1,2400,0.0,650,Consumer
+SO0327,2025-06-29,C0085,Customer 152,Hyderabad,West,Furniture,Office Chair,2,6500,0.0,1600,Corporate
+SO0328,2025-09-29,C0102,Customer 089,Kolkata,West,Furniture,Sofa,4,22000,0.1,5000,Consumer
+SO0329,2025-05-17,C0009,Customer 117,Kolkata,South,Home & Kitchen,Mixer Grinder,1,2800,0.1,750,Corporate
+SO0330,2025-06-29,C0026,Customer 056,Bengaluru,West,Electronics,Keyboard,2,950,0.0,300,Consumer
+SO0331,2025-04-13,C0165,Customer 083,Delhi,West,Clothing,Jeans,3,1400,0.0,450,Consumer
+SO0332,2025-03-18,C0097,Customer 151,Hyderabad,East,Clothing,Jacket,5,3200,0.1,950,Home Office
+SO0333,2025-06-06,C0092,Customer 138,Jaipur,North,Furniture,Study Table,5,8500,0.1,2100,Corporate
+SO0334,2025-10-29,C0120,Customer 031,Delhi,West,Furniture,Bookshelf,5,4200,0.1,1000,Consumer
+SO0335,2025-12-05,C0126,Customer 009,Mumbai,South,Home & Kitchen,Table Lamp,4,850,0.0,250,Consumer
+SO0336,2025-09-27,C0022,Customer 083,Bengaluru,West,Home & Kitchen,Water Bottle,2,350,0.15,100,Consumer
+SO0337,2025-07-22,C0096,Customer 012,Pune,East,Clothing,Sneakers,1,2600,0.0,800,Consumer
+SO0338,2025-06-15,C0158,Customer 091,Pune,South,Clothing,Sneakers,2,2600,0.1,800,Corporate
+SO0339,2025-06-01,C0070,Customer 101,Pune,West,Furniture,Study Table,4,8500,0.0,2100,Home Office
+SO0340,2025-06-11,C0145,Customer 136,Jaipur,East,Home & Kitchen,Cookware Set,3,2400,0.1,650,Corporate
+SO0341,2025-10-30,C0132,Customer 126,Mumbai,West,Electronics,Smartphone,4,18000,0.1,3000,Corporate
+SO0342,2025-08-22,C0093,Customer 135,Chennai,South,Electronics,Smartphone,3,18000,0.1,3000,Corporate
+SO0343,2025-09-01,C0062,Customer 164,Bengaluru,East,Electronics,Smartphone,1,18000,0.05,3000,Consumer
+SO0344,2025-07-21,C0036,Customer 159,Kolkata,West,Electronics,Smartphone,2,18000,0.0,3000,Home Office
+SO0345,2025-11-20,C0002,Customer 112,Kolkata,West,Electronics,Keyboard,2,950,0.15,300,Corporate
+SO0346,2025-02-27,C0104,Customer 149,Pune,North,Furniture,Sofa,2,22000,0.0,5000,Corporate
+SO0347,2025-09-16,C0095,Customer 013,Kolkata,South,Furniture,Office Chair,3,6500,0.05,1600,Consumer
+SO0348,2025-05-21,C0024,Customer 038,Jaipur,East,Furniture,Study Table,2,8500,0.0,2100,Corporate
+SO0349,2025-10-01,C0013,Customer 080,Kolkata,West,Electronics,Smartphone,3,18000,0.1,3000,Home Office
+SO0350,2025-02-22,C0130,Customer 125,Mumbai,East,Clothing,Handbag,1,1900,0.1,600,Corporate
+SO0351,2025-06-29,C0060,Customer 082,Chennai,South,Home & Kitchen,Table Lamp,1,850,0.0,250,Home Office
+SO0352,2025-02-20,C0116,Customer 014,Pune,West,Furniture,Dining Table,4,15000,0.1,3500,Home Office
+SO0353,2025-11-01,C0130,Customer 077,Delhi,North,Clothing,Jeans,2,1400,0.0,450,Corporate
+SO0354,2025-04-09,C0163,Customer 060,Chennai,East,Home & Kitchen,Table Lamp,4,850,0.1,250,Home Office
+SO0355,2025-08-24,C0086,Customer 128,Chennai,East,Home & Kitchen,Water Bottle,3,350,0.15,100,Home Office
+SO0356,2025-06-22,C0056,Customer 105,Bengaluru,North,Home & Kitchen,Cookware Set,5,2400,0.05,650,Consumer
+SO0357,2025-07-07,C0022,Customer 148,Bengaluru,West,Home & Kitchen,Water Bottle,4,350,0.15,100,Home Office
+SO0358,2025-12-18,C0118,Customer 016,Jaipur,West,Furniture,Sofa,2,22000,0.0,5000,Home Office
+SO0359,2025-10-13,C0012,Customer 050,Bengaluru,South,Furniture,Sofa,1,22000,0.15,5000,Home Office
+SO0360,2025-07-11,C0160,Customer 053,Mumbai,East,Furniture,Dining Table,4,15000,0.0,3500,Consumer
+SO0361,2025-09-09,C0027,Customer 085,Hyderabad,East,Furniture,Dining Table,4,15000,0.05,3500,Consumer
+SO0362,2025-12-11,C0024,Customer 125,Mumbai,North,Home & Kitchen,Cookware Set,5,2400,0.0,650,Home Office
+SO0363,2025-09-15,C0055,Customer 053,Delhi,West,Furniture,Office Chair,3,6500,0.1,1600,Corporate
+SO0364,2025-07-15,C0039,Customer 168,Mumbai,West,Home & Kitchen,Bedsheet,2,1200,0.1,350,Corporate
+SO0365,2025-02-12,C0047,Customer 043,Chennai,East,Clothing,Handbag,4,1900,0.0,600,Corporate
+SO0366,2025-02-08,C0072,Customer 037,Hyderabad,East,Electronics,Headphones,4,1800,0.0,650,Home Office
+SO0367,2025-07-20,C0142,Customer 119,Hyderabad,East,Clothing,Sneakers,1,2600,0.1,800,Home Office
+SO0368,2025-10-19,C0140,Customer 015,Chennai,North,Home & Kitchen,Bedsheet,1,1200,0.0,350,Home Office
+SO0369,2025-10-10,C0044,Customer 156,Pune,East,Furniture,Bookshelf,4,4200,0.1,1000,Corporate
+SO0370,2025-01-24,C0133,Customer 149,Mumbai,East,Electronics,Wireless Mouse,3,650,0.15,200,Home Office
+SO0371,2025-12-04,C0041,Customer 117,Delhi,North,Clothing,Jacket,5,3200,0.0,950,Corporate
+SO0372,2025-08-18,C0111,Customer 119,Kolkata,North,Electronics,Laptop,1,52000,0.05,9000,Corporate
+SO0373,2025-12-14,C0033,Customer 161,Mumbai,East,Home & Kitchen,Table Lamp,2,850,0.05,250,Consumer
+SO0374,2025-04-29,C0130,Customer 175,Delhi,East,Home & Kitchen,Mixer Grinder,2,2800,0.1,750,Corporate
+SO0375,2025-06-30,C0179,Customer 142,Kolkata,West,Clothing,T-Shirt,1,550,0.1,180,Consumer
+SO0376,2025-03-23,C0088,Customer 138,Delhi,East,Furniture,Study Table,5,8500,0.05,2100,Home Office
+SO0377,2025-03-08,C0175,Customer 001,Bengaluru,West,Home & Kitchen,Table Lamp,3,850,0.0,250,Home Office
+SO0378,2025-07-14,C0138,Customer 146,Mumbai,South,Furniture,Office Chair,1,6500,0.0,1600,Home Office
+SO0379,2025-06-29,C0083,Customer 174,Kolkata,North,Home & Kitchen,Mixer Grinder,1,2800,0.0,750,Consumer
+SO0380,2025-09-08,C0061,Customer 172,Jaipur,West,Furniture,Dining Table,2,15000,0.0,3500,Home Office
+SO0381,2025-01-07,C0016,Customer 102,Mumbai,North,Electronics,Wireless Mouse,3,650,0.0,200,Consumer
+SO0382,2025-04-25,C0146,Customer 123,Bengaluru,South,Electronics,Wireless Mouse,2,650,0.05,200,Consumer
+SO0383,2025-03-02,C0031,Customer 052,Jaipur,West,Electronics,Keyboard,3,950,0.1,300,Corporate
+SO0384,2025-12-27,C0029,Customer 076,Delhi,North,Electronics,Headphones,3,1800,0.0,650,Consumer
+SO0385,2025-03-10,C0115,Customer 122,Bengaluru,North,Home & Kitchen,Bedsheet,5,1200,0.0,350,Home Office
+SO0386,2025-03-18,C0012,Customer 037,Pune,East,Furniture,Study Table,5,8500,0.0,2100,Home Office
+SO0387,2025-07-26,C0162,Customer 114,Chennai,North,Clothing,Jeans,5,1400,0.15,450,Home Office
+SO0388,2025-03-05,C0031,Customer 117,Mumbai,West,Home & Kitchen,Bedsheet,5,1200,0.15,350,Home Office
+SO0389,2025-02-14,C0060,Customer 066,Bengaluru,East,Home & Kitchen,Table Lamp,4,850,0.15,250,Consumer
+SO0390,2025-10-10,C0157,Customer 155,Chennai,East,Clothing,Handbag,4,1900,0.1,600,Home Office
+SO0391,2025-11-24,C0098,Customer 114,Jaipur,East,Clothing,Jeans,4,1400,0.15,450,Consumer
+SO0392,2025-02-06,C0066,Customer 043,Kolkata,North,Home & Kitchen,Table Lamp,1,850,0.0,250,Consumer
+SO0393,2025-07-22,C0020,Customer 064,Chennai,West,Furniture,Bookshelf,2,4200,0.15,1000,Home Office
+SO0394,2025-03-29,C0074,Customer 065,Pune,North,Home & Kitchen,Mixer Grinder,2,2800,0.0,750,Consumer
+SO0395,2025-08-08,C0153,Customer 130,Hyderabad,West,Furniture,Study Table,4,8500,0.0,2100,Corporate
+SO0396,2025-12-17,C0002,Customer 151,Kolkata,South,Clothing,Jeans,4,1400,0.0,450,Consumer
+SO0397,2025-12-27,C0171,Customer 125,Mumbai,South,Electronics,Keyboard,5,950,0.1,300,Home Office
+SO0398,2025-03-23,C0092,Customer 118,Kolkata,West,Clothing,T-Shirt,5,550,0.0,180,Home Office
+SO0399,2025-07-07,C0177,Customer 047,Mumbai,East,Clothing,T-Shirt,5,550,0.15,180,Home Office
+SO0400,2025-09-23,C0036,Customer 039,Mumbai,South,Home & Kitchen,Bedsheet,4,1200,0.0,350,Home Office
+SO0401,2025-08-26,C0020,Customer 179,Kolkata,East,Home & Kitchen,Table Lamp,1,850,0.05,250,Consumer
+SO0402,2025-03-08,C0144,Customer 174,Delhi,North,Home & Kitchen,Mixer Grinder,1,2800,0.05,750,Home Office
+SO0403,2025-07-15,C0008,Customer 015,Mumbai,North,Furniture,Bookshelf,4,4200,0.0,1000,Consumer
+SO0404,2025-07-07,C0141,Customer 082,Pune,South,Furniture,Bookshelf,4,4200,0.0,1000,Home Office
+SO0405,2025-05-10,C0048,Customer 132,Pune,North,Electronics,Keyboard,5,950,0.05,300,Home Office
+SO0406,2025-05-02,C0052,Customer 004,Pune,West,Electronics,Headphones,1,1800,0.15,650,Corporate
+SO0407,2025-01-13,C0140,Customer 020,Jaipur,North,Furniture,Study Table,5,8500,0.1,2100,Corporate
+SO0408,2025-10-05,C0174,Customer 114,Hyderabad,East,Home & Kitchen,Table Lamp,5,850,0.15,250,Home Office
+SO0409,2025-06-10,C0004,Customer 016,Jaipur,East,Electronics,Headphones,4,1800,0.05,650,Corporate
+SO0410,2025-08-04,C0104,Customer 050,Hyderabad,South,Home & Kitchen,Water Bottle,3,350,0.15,100,Home Office
+SO0411,2025-07-09,C0047,Customer 123,Mumbai,East,Electronics,Headphones,4,1800,0.0,650,Consumer
+SO0412,2025-03-25,C0052,Customer 098,Chennai,West,Electronics,Wireless Mouse,1,650,0.05,200,Home Office
+SO0413,2025-11-19,C0101,Customer 180,Bengaluru,North,Furniture,Sofa,2,22000,0.05,5000,Corporate
+SO0414,2025-08-16,C0093,Customer 104,Kolkata,North,Clothing,Handbag,5,1900,0.0,600,Corporate
+SO0415,2025-01-05,C0112,Customer 163,Pune,North,Home & Kitchen,Cookware Set,3,2400,0.05,650,Consumer
+SO0416,2025-05-08,C0104,Customer 152,Chennai,West,Furniture,Bookshelf,4,4200,0.0,1000,Home Office
+SO0417,2025-03-02,C0062,Customer 152,Jaipur,East,Furniture,Office Chair,3,6500,0.05,1600,Consumer
+SO0418,2025-12-08,C0153,Customer 103,Chennai,East,Electronics,Wireless Mouse,5,650,0.0,200,Home Office
+SO0419,2025-07-24,C0083,Customer 084,Delhi,East,Furniture,Study Table,3,8500,0.05,2100,Consumer
+SO0420,2025-08-29,C0055,Customer 080,Chennai,South,Furniture,Office Chair,1,6500,0.0,1600,Corporate
+SO0421,2025-04-04,C0039,Customer 038,Delhi,East,Electronics,Laptop,2,52000,0.05,9000,Consumer
+SO0422,2025-07-15,C0173,Customer 014,Bengaluru,South,Electronics,Laptop,1,52000,0.0,9000,Consumer
+SO0423,2025-04-23,C0029,Customer 159,Hyderabad,West,Furniture,Bookshelf,4,4200,0.0,1000,Home Office
+SO0424,2025-10-13,C0163,Customer 151,Delhi,South,Furniture,Study Table,5,8500,0.05,2100,Home Office
+SO0425,2025-08-31,C0148,Customer 046,Delhi,North,Home & Kitchen,Table Lamp,5,850,0.0,250,Corporate
+SO0426,2025-05-26,C0100,Customer 173,Jaipur,South,Electronics,Wireless Mouse,2,650,0.0,200,Corporate
+SO0427,2025-12-12,C0139,Customer 118,Kolkata,West,Furniture,Office Chair,3,6500,0.15,1600,Home Office
+SO0428,2025-04-21,C0065,Customer 144,Kolkata,West,Furniture,Dining Table,1,15000,0.1,3500,Consumer
+SO0429,2025-06-07,C0026,Customer 086,Chennai,West,Furniture,Office Chair,5,6500,0.05,1600,Home Office
+SO0430,2025-05-25,C0108,Customer 041,Hyderabad,South,Electronics,Wireless Mouse,3,650,0.15,200,Corporate
+SO0431,2025-07-02,C0024,Customer 064,Jaipur,West,Furniture,Office Chair,5,6500,0.05,1600,Consumer
+SO0432,2025-10-08,C0158,Customer 005,Hyderabad,South,Furniture,Study Table,4,8500,0.0,2100,Home Office
+SO0433,2025-06-25,C0109,Customer 062,Pune,South,Electronics,Keyboard,4,950,0.1,300,Home Office
+SO0434,2025-11-04,C0006,Customer 003,Pune,South,Electronics,Smartphone,2,18000,0.05,3000,Home Office
+SO0435,2025-06-07,C0094,Customer 148,Hyderabad,South,Home & Kitchen,Water Bottle,4,350,0.15,100,Consumer
+SO0436,2025-03-26,C0049,Customer 035,Mumbai,East,Furniture,Office Chair,3,6500,0.0,1600,Consumer
+SO0437,2025-02-13,C0090,Customer 063,Jaipur,South,Furniture,Office Chair,5,6500,0.0,1600,Consumer
+SO0438,2025-12-11,C0155,Customer 035,Kolkata,West,Furniture,Study Table,5,8500,0.15,2100,Consumer
+SO0439,2025-01-04,C0058,Customer 009,Pune,East,Electronics,Headphones,5,1800,0.0,650,Home Office
+SO0440,2025-01-21,C0097,Customer 152,Bengaluru,South,Clothing,Jeans,1,1400,0.05,450,Consumer
+SO0441,2025-09-13,C0086,Customer 073,Kolkata,North,Furniture,Bookshelf,4,4200,0.0,1000,Consumer
+SO0442,2025-12-15,C0074,Customer 131,Jaipur,East,Furniture,Sofa,1,22000,0.1,5000,Corporate
+SO0443,2025-10-23,C0122,Customer 020,Delhi,East,Home & Kitchen,Bedsheet,4,1200,0.15,350,Consumer
+SO0444,2025-09-30,C0094,Customer 077,Hyderabad,East,Furniture,Sofa,1,22000,0.1,5000,Consumer
+SO0445,2025-10-22,C0045,Customer 055,Kolkata,South,Clothing,Jacket,1,3200,0.1,950,Corporate
+SO0446,2025-10-08,C0032,Customer 142,Bengaluru,West,Clothing,T-Shirt,1,550,0.1,180,Home Office
+SO0447,2025-03-17,C0091,Customer 042,Delhi,North,Electronics,Laptop,3,52000,0.0,9000,Home Office
+SO0448,2025-09-07,C0079,Customer 054,Delhi,North,Home & Kitchen,Mixer Grinder,4,2800,0.0,750,Corporate
+SO0449,2025-06-14,C0030,Customer 065,Hyderabad,East,Furniture,Sofa,3,22000,0.15,5000,Consumer
+SO0450,2025-11-06,C0031,Customer 158,Jaipur,South,Electronics,Laptop,3,52000,0.1,9000,Corporate
+SO0451,2025-04-19,C0006,Customer 179,Kolkata,East,Clothing,T-Shirt,5,550,0.0,180,Home Office
+SO0452,2025-01-30,C0155,Customer 096,Kolkata,North,Electronics,Laptop,2,52000,0.05,9000,Corporate
+SO0453,2025-03-19,C0164,Customer 168,Delhi,East,Clothing,Handbag,4,1900,0.05,600,Corporate
+SO0454,2025-12-24,C0056,Customer 146,Hyderabad,West,Furniture,Office Chair,3,6500,0.05,1600,Consumer
+SO0455,2025-07-23,C0123,Customer 118,Jaipur,South,Home & Kitchen,Table Lamp,5,850,0.0,250,Corporate
+SO0456,2025-07-08,C0174,Customer 014,Chennai,South,Furniture,Dining Table,3,15000,0.05,3500,Corporate
+SO0457,2025-04-08,C0066,Customer 061,Mumbai,North,Clothing,Jacket,2,3200,0.1,950,Home Office
+SO0458,2025-08-08,C0094,Customer 031,Hyderabad,North,Electronics,Wireless Mouse,3,650,0.1,200,Consumer
+SO0459,2025-04-20,C0173,Customer 174,Mumbai,East,Furniture,Bookshelf,4,4200,0.0,1000,Corporate
+SO0460,2025-07-20,C0090,Customer 079,Pune,North,Electronics,Wireless Mouse,3,650,0.15,200,Home Office
+SO0461,2025-08-22,C0049,Customer 098,Pune,South,Home & Kitchen,Mixer Grinder,1,2800,0.1,750,Corporate
+SO0462,2025-08-21,C0057,Customer 029,Hyderabad,North,Clothing,Jeans,4,1400,0.1,450,Consumer
+SO0463,2025-12-06,C0048,Customer 031,Jaipur,West,Furniture,Bookshelf,4,4200,0.0,1000,Home Office
+SO0464,2025-02-01,C0177,Customer 161,Chennai,West,Home & Kitchen,Cookware Set,5,2400,0.05,650,Consumer
+SO0465,2025-07-13,C0078,Customer 045,Mumbai,East,Home & Kitchen,Table Lamp,5,850,0.0,250,Home Office
+SO0466,2025-03-22,C0158,Customer 047,Pune,West,Home & Kitchen,Table Lamp,2,850,0.0,250,Corporate
+SO0467,2025-11-30,C0175,Customer 056,Jaipur,West,Furniture,Dining Table,5,15000,0.0,3500,Consumer
+SO0468,2025-12-06,C0078,Customer 115,Mumbai,West,Furniture,Sofa,5,22000,0.0,5000,Corporate
+SO0469,2025-02-07,C0087,Customer 072,Jaipur,East,Home & Kitchen,Cookware Set,4,2400,0.05,650,Consumer
+SO0470,2025-10-25,C0124,Customer 156,Hyderabad,West,Home & Kitchen,Cookware Set,2,2400,0.1,650,Corporate
+SO0471,2025-03-10,C0171,Customer 015,Kolkata,South,Home & Kitchen,Table Lamp,1,850,0.0,250,Corporate
+SO0472,2025-07-12,C0139,Customer 153,Delhi,East,Clothing,Sneakers,4,2600,0.1,800,Consumer
+SO0473,2025-04-22,C0097,Customer 170,Bengaluru,South,Furniture,Office Chair,3,6500,0.05,1600,Consumer
+SO0474,2025-11-16,C0177,Customer 178,Mumbai,East,Home & Kitchen,Cookware Set,2,2400,0.0,650,Consumer
+SO0475,2025-01-09,C0053,Customer 040,Jaipur,North,Clothing,Sneakers,3,2600,0.0,800,Consumer
+SO0476,2025-10-23,C0172,Customer 113,Hyderabad,South,Clothing,T-Shirt,3,550,0.0,180,Corporate
+SO0477,2025-09-04,C0095,Customer 154,Pune,South,Home & Kitchen,Mixer Grinder,3,2800,0.15,750,Corporate
+SO0478,2025-05-16,C0062,Customer 153,Pune,West,Electronics,Headphones,5,1800,0.0,650,Corporate
+SO0479,2025-12-06,C0067,Customer 083,Delhi,East,Furniture,Dining Table,4,15000,0.1,3500,Consumer
+SO0480,2025-03-13,C0134,Customer 073,Mumbai,South,Home & Kitchen,Mixer Grinder,2,2800,0.05,750,Consumer
+SO0481,2025-01-15,C0169,Customer 042,Pune,West,Furniture,Office Chair,3,6500,0.0,1600,Home Office
+SO0482,2025-11-14,C0126,Customer 003,Hyderabad,East,Furniture,Sofa,5,22000,0.1,5000,Home Office
+SO0483,2025-11-26,C0017,Customer 016,Hyderabad,West,Home & Kitchen,Cookware Set,4,2400,0.05,650,Corporate
+SO0484,2025-08-13,C0172,Customer 075,Kolkata,East,Home & Kitchen,Water Bottle,4,350,0.0,100,Home Office
+SO0485,2025-07-18,C0116,Customer 075,Chennai,West,Electronics,Laptop,3,52000,0.0,9000,Corporate
+SO0486,2025-11-29,C0168,Customer 007,Pune,East,Home & Kitchen,Cookware Set,4,2400,0.05,650,Consumer
+SO0487,2025-03-12,C0038,Customer 020,Bengaluru,East,Furniture,Office Chair,3,6500,0.05,1600,Home Office
+SO0488,2025-10-14,C0148,Customer 023,Kolkata,South,Home & Kitchen,Cookware Set,4,2400,0.15,650,Home Office
+SO0489,2025-05-15,C0152,Customer 134,Bengaluru,North,Electronics,Wireless Mouse,3,650,0.1,200,Corporate
+SO0490,2025-03-29,C0040,Customer 137,Mumbai,North,Clothing,Jeans,2,1400,0.05,450,Consumer
+SO0491,2025-03-08,C0128,Customer 045,Mumbai,East,Home & Kitchen,Mixer Grinder,3,2800,0.0,750,Home Office
+SO0492,2025-02-16,C0115,Customer 024,Bengaluru,West,Furniture,Bookshelf,2,4200,0.0,1000,Home Office
+SO0493,2025-09-28,C0139,Customer 088,Mumbai,North,Furniture,Sofa,1,22000,0.0,5000,Corporate
+SO0494,2025-07-22,C0135,Customer 146,Delhi,East,Home & Kitchen,Water Bottle,3,350,0.15,100,Corporate
+SO0495,2025-06-28,C0159,Customer 092,Jaipur,East,Home & Kitchen,Cookware Set,1,2400,0.15,650,Consumer
+SO0496,2025-06-18,C0175,Customer 029,Pune,West,Furniture,Office Chair,3,6500,0.0,1600,Home Office
+SO0497,2025-01-05,C0009,Customer 055,Pune,East,Furniture,Office Chair,5,6500,0.0,1600,Corporate
+SO0498,2025-08-06,C0090,Customer 122,Jaipur,West,Furniture,Sofa,1,22000,0.05,5000,Home Office
+SO0499,2025-08-28,C0061,Customer 023,Jaipur,East,Furniture,Sofa,4,22000,0.0,5000,Home Office
+SO0500,2025-08-08,C0098,Customer 163,Chennai,East,Electronics,Laptop,1,52000,0.05,9000,Corporate
